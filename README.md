@@ -4,8 +4,6 @@ Extendable formula parser and executor.
 
 ## Usage
 
-[Demo](https://codesandbox.io/s/formula-engine-demo-vxqkc?file=/src/App.tsx)
-
 Typical expression may look like this:
 
 ```
